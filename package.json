@@ -1,0 +1,20 @@
+{
+  "name": "cofre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps_script_cumpleanos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "nodemailer": "^8.0.2"
+  }
+}

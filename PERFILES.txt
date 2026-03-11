@@ -1,0 +1,25 @@
+# PERFIL PROFESIONAL ADAPTADO - LISBETH HIDALGO (BIOTECNÓLOGA)
+
+## 1. Perfil: ANALISTA DE CONTROL DE CALIDAD (QA/QC / BPM)
+*Foco: Industrias Alimentarias, Farmacéuticas o Cosméticas.*
+- **Resumen:** Especialista en aseguramiento de calidad con sólida formación en normativas ISO 22000, BPM y HACCP. Experiencia en implementación de manuales de buenas prácticas y análisis microbiológicos.
+- **Logro Clave:** Diseño e implementación de manuales técnico-operativos para el cumplimiento de estándares ARCSA.
+- **Habilidades:** Auditoría interna, gestión de puntos críticos de control, control de procesos.
+
+## 2. Perfil: INGENIERA DE PROCESOS / PRODUCCIÓN
+*Foco: Plantas de producción, optimización de líneas, supervisor de operaciones.*
+- **Resumen:** Ingeniera con capacidad analítica para la optimización de procesos biotecnológicos e industriales. Experiencia en diseño de layouts de planta y diagramas de flujo de producción.
+- **Logro Clave:** Desarrollo integral del proceso de producción de Hidromiel, desde el diseño de planta hasta el control de fermentación.
+- **Habilidades:** AutoCAD (Layouts), optimización de recursos, supervisión de personal.
+
+## 3. Perfil: GESTIÓN AMBIENTAL Y RESIDUOS
+*Foco: Consultoras ambientales, gestión de desechos, sostenibilidad.*
+- **Resumen:** Biotecnóloga enfocada en economía circular y valorización de residuos. Especialista en procesos de compostaje a escala industrial y legislación ambiental ecuatoriana.
+- **Logro Clave:** Desarrollo de criterios de diseño técnico para plantas de compostaje y planes de manejo de desechos sólidos.
+- **Habilidades:** Legislación Ambiental, caracterización de residuos, sostenibilidad industrial.
+
+## 4. Perfil: INVESTIGACIÓN Y DESARROLLO (I+D)
+*Foco: Laboratorios de investigación, universidades, innovación agrícola.*
+- **Resumen:** Investigadora con enfoque en biotecnología vegetal y análisis químico. Experiencia en técnicas de laboratorio para la cuantificación de compuestos bioactivos.
+- **Logro Clave:** Determinación del perfil antioxidante en Solanum lycopersicum (tomate cherry) bajo condiciones de estrés hídrico controlado.
+- **Habilidades:** Técnicas de laboratorio, análisis estadístico, biotecnología vegetal.
